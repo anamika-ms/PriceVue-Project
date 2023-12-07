@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=PRICEVUE%20;HOME PREDICTER%20;PRICE FORECASTING%20;&font=Inconsolata Bold&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=42" /></a></h1>
+<img src="https://readme-typing-svg.demolab.com/?lines=PRICEVUE%20;HOME PREDICTOR%20;PRICE FORECASTING%20;&font=Inconsolata Bold&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=42" /></a></h1>
 HomePricePredictor is an advanced home price prediction web application developed during my programming journey, leveraging machine learning and Django for a seamless user experience.
 
 ### Project Overview:
