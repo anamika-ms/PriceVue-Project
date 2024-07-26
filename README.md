@@ -28,7 +28,7 @@ To interact with the HomePricePredictor platform, users need a modern web browse
 - **Admin Module:** Provides administrative access for monitoring and managing the platform.
 
 ### Getting Started:
-1. Clone the repository: `git clone https://github.com/Anamika-Maker-Ctrl/HomePricePredictor.git`
+1. Clone the repository: `git clone https://github.com/anamika-ms/HomePricePredictor.git`
 2. Install required dependencies: `pip install -r requirements.txt`
 3. Run the Django development server: `python manage.py runserver`
 
